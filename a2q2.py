@@ -1,7 +1,0 @@
-name=input("Enter your name here ")
-dep_name=input("Enter your department here ")
-sid=input("Enter your sid here ")
-cgpa=input("Enter your cgpa here ")
-print("Hey,",name," Here !")
-print("My SID is",sid)
-print("I am from",dep_name,"department and my CGPA is",cgpa)
